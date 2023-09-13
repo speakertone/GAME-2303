@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <algorithm>
 #include <string>
 
 using namespace std;
@@ -18,12 +19,18 @@ public:
         this->lastName = lastName;
         this->avgGrade = avgGrade;
     }
+
     std::string getFirstName() { return firstName; }
     std::string getLastName() { return lastName; }
     int getAvgGrade() { return avgGrade; }
+
     void setFirstName(std::string firstName) { this->firstName = firstName; }
     void setLastName(std::string lastName) { this->lastName = lastName; }
     void setAvgGrade(int avgGrade) { this->avgGrade = avgGrade; }
+
+    bool operator<(const Student& s) {
+        return avgGrade < s.avgGrade;
+    }
 };
 
 vector<Student> readStudentsFromFile(string filePath);
@@ -33,7 +40,11 @@ int main()
 {
     string defaultFilePath = "example.txt";
     cout << "Reading from file: " << defaultFilePath << "\n";
-    printStudents(readStudentsFromFile(defaultFilePath));
+    vector<Student> students = readStudentsFromFile(defaultFilePath);
+    
+    sort(students.begin(), students.end());
+    reverse(students.begin(), students.end());
+    printStudents(students);
 }
 
 static vector<Student> readStudentsFromFile(string filePath)
