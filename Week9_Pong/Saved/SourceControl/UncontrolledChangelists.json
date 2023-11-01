@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/Map1.umap",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_GameMode.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_Player.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_PongBall.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/PM_Bouncy.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_Paddle.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_PlayerPaddle.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_BallSpawner.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_EnemyPaddle.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_HUD.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_InvisibleBall.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week9_Pong/Content/BP_InvisibleBall_Old.uasset"
+			]
+		}
+	]
+}
