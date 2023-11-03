@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Week10_LookAt",
+			"Path": "..\\Source\\Week10_LookAt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Week10_LookAtEditor",
+			"Path": "..\\Source\\Week10_LookAtEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
