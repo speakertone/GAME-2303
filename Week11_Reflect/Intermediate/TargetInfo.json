@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Week11_Reflect",
+			"Path": "..\\Source\\Week11_Reflect.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Week11_ReflectEditor",
+			"Path": "..\\Source\\Week11_ReflectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

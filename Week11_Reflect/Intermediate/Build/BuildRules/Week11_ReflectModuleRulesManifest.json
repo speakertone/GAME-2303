@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\theco\\Documents\\Unreal Projects\\Week11_Reflect\\Source\\Week11_Reflect\\Week11_Reflect.Build.cs",
+		"C:\\Users\\theco\\Documents\\Unreal Projects\\Week11_Reflect\\Source\\Week11_Reflect.Target.cs",
+		"C:\\Users\\theco\\Documents\\Unreal Projects\\Week11_Reflect\\Source\\Week11_ReflectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
