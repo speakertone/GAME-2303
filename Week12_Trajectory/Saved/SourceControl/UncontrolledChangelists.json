@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/theco/Documents/Unreal Projects/Week12_Trajectory/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week12_Trajectory/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week12_Trajectory/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/theco/Documents/Unreal Projects/Week12_Trajectory/Content/FirstPerson/Input/Actions/IA_Toggle.uasset"
+			]
+		}
+	]
+}
