@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GraphFormatter.cpp.obj": [
+			"FormatterBlueprintLibrary.gen.cpp.obj",
+			"FormatterGraph.gen.cpp.obj",
+			"FormatterSettings.gen.cpp.obj",
+			"GraphFormatter.init.gen.cpp.obj",
+			"graph_layout.cpp.obj",
+			"EvenlyPlaceStrategy.cpp.obj",
+			"FastAndSimplePositioningStrategy.cpp.obj",
+			"Formatter.cpp.obj",
+			"FormatterBlueprintLibrary.cpp.obj",
+			"FormatterCommands.cpp.obj",
+			"FormatterGraph.cpp.obj",
+			"FormatterLog.cpp.obj",
+			"FormatterModule.cpp.obj",
+			"FormatterSettings.cpp.obj",
+			"FormatterStyle.cpp.obj",
+			"NewGraphAdapter.cpp.obj",
+			"PriorityPositioningStrategy.cpp.obj",
+			"UEGraphAdapter.cpp.obj"
+		]
+	}
+}

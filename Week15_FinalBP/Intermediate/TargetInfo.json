@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Week15_FinalBP",
+			"Path": "..\\Source\\Week15_FinalBP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Week15_FinalBPEditor",
+			"Path": "..\\Source\\Week15_FinalBPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

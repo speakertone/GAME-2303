@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\theco\\Documents\\GitHub\\GAME-2303\\Week15_FinalBP\\Source\\Week15_FinalBP\\Week15_FinalBP.Build.cs",
+		"C:\\Users\\theco\\Documents\\GitHub\\GAME-2303\\Week15_FinalBP\\Plugins\\GraphFormatter\\Source\\GraphFormatter\\GraphFormatter.Build.cs",
+		"C:\\Users\\theco\\Documents\\GitHub\\GAME-2303\\Week15_FinalBP\\Source\\Week15_FinalBP.Target.cs",
+		"C:\\Users\\theco\\Documents\\GitHub\\GAME-2303\\Week15_FinalBP\\Source\\Week15_FinalBPEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
